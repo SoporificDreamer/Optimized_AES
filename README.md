@@ -1,5 +1,6 @@
 # README #
 
-Embedded AES Project for Practical Cryptology(02255)
+Embedded AES Project for Assignment
+Task: Build 8-bit AES for microcontroller with optimizations
 
-Authors: Ren, Yin
+Authors: Upal, Jiachen
