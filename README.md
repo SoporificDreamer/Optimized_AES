@@ -1,2 +1,5 @@
-# Optimized_AES
-Implementation of Optimized AES in 8-bit microcontrollers
+# README #
+
+Embedded AES Project for Practical Cryptology(02255)
+
+Authors: Ren, Yin
